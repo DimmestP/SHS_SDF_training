@@ -7,15 +7,15 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "incubator"
+carpentry: ""
 
 # Overall title for pages.
-title: "Introduction to Bioinformatics workflows with Nextflow and nf-core" # FIXME
+title: "Introduction to running tasks within the Safe Haven SuperDome Flex." # FIXME
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
 # Possible values: "pre-alpha", "alpha", "beta", "stable"
-life_cycle: "pre-alpha"
+life_cycle: "alpha"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -30,7 +30,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: graeme.grimes@igmm.ed.ac.uk" # FIXME
+email: "s.haynes@epcc.ed.ac.uk" # FIXME
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"
